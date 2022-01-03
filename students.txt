@@ -1,1 +1,2 @@
 first name ; last name ; github login
+Arthur ; Bajt ; ArthurBajt

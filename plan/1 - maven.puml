@@ -1,0 +1,24 @@
+@startmindmap
+* Maven
+
+** Describing how to build
+*** pom.xml
+**** Project Identifier
+*** Standard directory layout
+** Locally on your machine
+** Dependency Management
+*** Maven Central
+** open for extension
+*** plugins
+left side
+
+** Multi modules
+** Caveats
+*** Snapshots
+*** Transitive dependencies
+**** Exclusions
+** Noteworthy
+*** maven:site
+*** gradle
+
+@endmindmap

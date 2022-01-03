@@ -1,0 +1,21 @@
+@startmindmap
+* module
+
+** Git
+** Maven
+** Unit Testing
+** Clean Code
+** CI / CD
+
+left side
+
+** project
+*** Spring
+*** JPA
+*** REST Vs Restful
+*** Hexagonal Architecture
+*** Data Scrapping
+*** Docker
+*** Infra as code
+
+@endmindmap
